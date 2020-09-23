@@ -5,6 +5,7 @@ Learning to use Github for your Portfolio Website Assignment
 
 **Assignment Instructions**
 
+
 - Create your own GitHub profile/ID (use a name appropriate for job applications) <https://happygitwithr.com/github-acct.html>
 - Once you have a Github account, sign up for an account at <https://app.netlify.com/signup> using your Github account
 - Create a new public repo for your portfolio website & initialize it with a "readme" file.
