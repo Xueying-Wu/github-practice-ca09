@@ -136,3 +136,4 @@
 |104|Federico Carrara|24|FedericoC22 | <https://github.com/FedericoC22/my_website> | <https://federico-carrara-portfolio.netlify.app/> |2020-10-14
 |105|Robert Carollo|5|robbiecarollo | <https://github.com/robbiecarollo/my_website> | <https://robertlondon.netlify.app> |2020-10-14
 |106|Konstantine Skandalis|24|KonstantineSK | <https://github.com/KonstantineSk/my_website> | <https://konstantine-portfolio.netlify.app/>  2020-10-14
+|107|Linda Wu|29|Xueying-Wu|https://github.com/Xueying-Wu/my_website.git |https://lindawu-portfolio.netlify.app/  2020-10-15
